@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Smart Secure</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_1st_phone_number" />
+    <string name="enter_2nd_phone_number" />
+    <string name="enter_3rd_phone_number" />
+    <string name="enter_4th_phone_number" />
+    <string name="save" />
+    <string name="add_contact_details_of_parents" />
+    <string name="todo" />
+</resources>
